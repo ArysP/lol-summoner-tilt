@@ -1,0 +1,17 @@
+OK
+
+This is where I write out random things I think about my program
+
+I am going to make a program that tracks one summoner and helps to keep average stats
+for them, as well as keeping track of arbitrary conditions in order to help assist
+in knowing if the summoner should play solo q.
+
+Ill start with the potential arbitrary conditions
+1. Number of losses in a row. Im thinking if the user has 3 or more losses in a row
+2. playing a champion the summoner has <10 games on
+3. teammate is playing a champion that they have <10 games on
+4. teammate is playing a champion with <45% winrate
+5.how long summoner has been playing
+6.rank and previous ranks of teammates
+
+first step is to be able to acquire a summoners match history
